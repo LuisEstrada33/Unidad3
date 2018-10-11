@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\bin\Debug\E.C.EstradaGallegosLuisHumberto.exe.config
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\bin\Debug\E.C.EstradaGallegosLuisHumberto.exe
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\bin\Debug\E.C.EstradaGallegosLuisHumberto.pdb
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\obj\Debug\E.C.EstradaGallegosLuisHumberto.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\obj\Debug\E.C.EstradaGallegosLuisHumberto.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\obj\Debug\E.C.EstradaGallegosLuisHumberto.exe
+C:\Users\boyhu\source\repos\E.C.EstradaGallegosLuisHumberto\E.C.EstradaGallegosLuisHumberto\obj\Debug\E.C.EstradaGallegosLuisHumberto.pdb
