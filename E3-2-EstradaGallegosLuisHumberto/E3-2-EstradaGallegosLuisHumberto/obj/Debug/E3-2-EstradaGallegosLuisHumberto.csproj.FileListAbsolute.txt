@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\bin\Debug\E3-2-EstradaGallegosLuisHumberto.exe.config
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\bin\Debug\E3-2-EstradaGallegosLuisHumberto.exe
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\bin\Debug\E3-2-EstradaGallegosLuisHumberto.pdb
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\obj\Debug\E3-2-EstradaGallegosLuisHumberto.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\obj\Debug\E3-2-EstradaGallegosLuisHumberto.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\obj\Debug\E3-2-EstradaGallegosLuisHumberto.exe
+C:\Users\boyhu\source\repos\E3-2-EstradaGallegosLuisHumberto\E3-2-EstradaGallegosLuisHumberto\obj\Debug\E3-2-EstradaGallegosLuisHumberto.pdb
